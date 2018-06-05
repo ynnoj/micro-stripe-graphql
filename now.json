@@ -1,7 +1,0 @@
-{
-  "alias": "micro-stripe-graphql.now.sh",
-  "dotenv": true,
-  "env": {
-    "NODE_ENV": "production"
-  }
-}
